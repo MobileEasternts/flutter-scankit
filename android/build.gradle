@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace= "xyz.bczl.flutter_scankit"
-    compileSdkVersion 30
+    compileSdkVersion 34
 
     defaultConfig {
         minSdkVersion 21
